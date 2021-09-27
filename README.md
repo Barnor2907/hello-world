@@ -1,2 +1,2 @@
 # hello-world
-Nordesco.com är fantastisk hemsida att hitta inredningsdetaljer.
+Nordesco är fantastisk hemsida att hitta inredningsdetaljer.
